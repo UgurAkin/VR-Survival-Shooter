@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A0B707F3-D917-3A49-94FA-0A3C592DE415}") = "shooter vr copy", "Assembly-CSharp.csproj", "{0FF0EBA0-F778-99BE-15BA-416678BBED50}"
+EndProject
+Project("{A0B707F3-D917-3A49-94FA-0A3C592DE415}") = "shooter vr copy", "Assembly-CSharp-Editor.csproj", "{9787FF58-CC84-1283-59EC-E8E55FC11420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF0EBA0-F778-99BE-15BA-416678BBED50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF0EBA0-F778-99BE-15BA-416678BBED50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF0EBA0-F778-99BE-15BA-416678BBED50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF0EBA0-F778-99BE-15BA-416678BBED50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9787FF58-CC84-1283-59EC-E8E55FC11420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9787FF58-CC84-1283-59EC-E8E55FC11420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9787FF58-CC84-1283-59EC-E8E55FC11420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9787FF58-CC84-1283-59EC-E8E55FC11420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
